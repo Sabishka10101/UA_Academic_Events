@@ -1,0 +1,95 @@
+What are the most important metadata fields for academic events (5 most important in your opinion (multiple choice answers)?,"
+Organizers  
+N = 3041
+","
+Organizers,% 
+","
+Scholars 
+N =  3027
+","
+Scholars, %",Total             N = 6068,"Total, %",Chi-Square (?ý),P-Value,Significance Level,Chi-Square (?ý) contribution Organizers,Chi-Square (?ý) contribution Scholars
+Event Acronym,159,5.23,148,4.89,307,5.06,0.394,? 0.05,Not significant,0.1721094,0.1729054
+Event description,427,14.04,324,10.70,751,12.38,14.127,<0.001,Significant,6.8118915,6.8433967
+Website,217,7.14,453,14.97,670,11.04,83.128,<0.001,Highly significant,42.0135251,42.2078394
+Event Organizer,373,12.27,337,11.13,710,11.70,1.825,? 0.05,Not significant,0.8295931,0.83343
+Event  subject ,423,13.91,312,10.31,735,12.11,16.763,<0.001,Significant,8.1087829,8.1462863
+Event type ,318,10.46,417,13.78,735,12.11,13.335,<0.001,Significant,6.8818368,6.9136656
+Field ,312,10.26,423,13.97,735,12.11,16.763,<0.001,Significant,8.619799,8.6596659
+Venue,134,4.41,220,7.27,354,5.83,20.893,<0.001,Significant,10.6211828,10.6703062
+Registration deadlines,397,13.05,42,1.39,439,7.23,287.073,<0.001,Highly significant,142.3900439,143.0486038
+Participation fee,105,3.45,215,7.10,320,5.27,37.813,<0.001,Highly significant,19.1167861,19.205202
+External links ,176,5.79,136,4.49,312,5.14,5.128,? 0.001,Significant,2.4669538,2.4783636
+,,,,,,,,,,,
+,,,,,,,,,,,
+What are the most important metadata for a series of academic events (top 5 most important in your opinion  (multiple choice answers)?,"Organizers
+N = 3084
+","
+Organizers,% 
+","Scholars
+N = 3701
+
+","
+Scholars, %",Total        N  = 6785,"Total, %",Chi-Square (?ý),P-Value,Significance Level,Chi-Square (?ý) contribution Organizers,Chi-Square (?ý) contribution Scholars
+Event Acronym,225,7.30,125,3.38,350,5.16,28.571,<0.001,Highly significant,27.30988553,22.7570081
+Event Website,273,8.85,450,12.16,723,10.66,43.332,<0.001,Highly significant,9.41593413,7.84618774
+Event Overview,243,7.88,474,12.81,717,10.57,74.423,<0.001,Highly significant,21.08725177,17.57176019
+Event type,335,10.86,215,5.81,550,8.11,26.182,<0.001,Highly significant,28.90586332,24.08691772
+Deadlines ,328,10.64,338,9.13,666,9.82,0.150,? 0.05,Not significant,2.11140773,1.75941136
+Organizer profile,211,6.84,363,9.81,574,8.46,40.251,<0.001,Highly significant,9.54440925,7.95324456
+Persistent identifiers (PIDs),78,2.53,98,2.65,176,2.59,2.273,? 0.05,Not significant,0.04988363,0.04156745
+Event program ,208,6.74,396,10.70,604,8.90,58.517,<0.001,Highly significant,16.126113,13.43770129
+Publication details,224,7.26,326,8.81,550,8.11,18.916, ? 0.001,Significant,2.70254709,2.25200087
+Peer review process,114,3.70,48,1.30,162,2.39,26.889,<0.001,Highly significant,22.12828444,18.43924053
+Registration Fee,139,4.51,183,4.94,322,4.75,6.012,? 0.001,Significant,0.37004558,0.30835466
+Co-organizer profile,52,1.69,92,2.49,144,2.12,11.111, ? 0.001,Significant,2.76494493,2.30399626
+Sponsor profile,19,0.62,51,1.38,70,1.03,14.629, ? 0.001,Significant,5.16329265,4.30251136
+Event Frequency,140,4.54,152,4.11,292,4.30,0.493,? 0.05,Not significant,0.39894623,0.33243723
+Publisher details,72,2.33,32,0.86,104,1.53,15.385, ? 0.001,Significant,12.93610485,10.77950483
+Field ,423,13.72,358,9.67,781,11.51,5.41,? 0.001,Significant,13.02974534,10.85753435
+,,,,,,,,,,,
+,,,,,,,,,,,
+"If the academic event has a funding organization (sponsor), which metadata do you think are important? ","Organizers 
+ N = 543 ","
+Organizers,% 
+","Scholars
+N = 727 ","
+Scholars, %",Total         N = 1270 ,"Total, %",Chi-Square (?ý),P-Value,Significance Level,,
+Information about sponsors,12,2.21,10,1.38,22,1.73,0.182,? 0.05,Not significant,,
+"Agreement with a national organization (foundation, association, corporation, etc.)",88,16.21,67,9.22,155,12.20,2.845,? 0.05,Not significant,,
+Own initiative (if the work is performed on one's own initiative at the expense of the event organizer or free of charge ,52,9.58,90,12.38,142,11.18,10.169,? 0.001,Significant,,
+Agreement (order  with the central executive authority and the Academy of Sciences (the main spending units for the event) ,195,35.91,267,36.73,462,36.38,11.221,<0.0001,Highly significant,,
+"Free of charge (agreement on scientific and technical cooperation, etc.)",82,15.10,221,30.40,303,23.86,63.766,<0.0001,Highly significant,,
+Agreement with a global customer,63,11.60,32,4.40,95,7.48,10.116,? 0.001,Significant,,
+Hard to answer,51,9.39,40,5.50,91,7.17,1.33,? 0.05,Not significant,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+What persistent identifiers (PIDs should be considered in the field of scientific activities (multiple choice answers)?,"Organizers
+N = 1544","
+Organizers,% 
+","Scholars
+ N = 1687 ","
+Scholars, %",Total         N = 3231 ,"Total, %",Chi-Square (?ý),P-Value,Significance Level,,
+ORCID (Open Researcher and Contributor iD) ,470,30.44,620,36.75,1090,33.74,20.642, ? 0.001,Highly significant,,
+ResearcherID | Web of Science,287,18.59,287,17.01,574,17.77,0,? 0.05,Not significant,,
+DOI (Digital Object Identifier System) ,464,30.05,37,2.19,501,15.51,363.93,<0.0001,Highly significant,,
+ISSN (International Standard Serial Number) ,139,9.00,335,19.86,474,14.67,81.046,<0.0001,Highly significant,,
+ISBN (International ISBN Agency ),117,7.58,317,18.79,434,13.43,92.166,<0.0001,Highly significant,,
+ROR (Research Organization Registry) ,11,0.71,41,2.43,52,1.61,17.308, ? 0.001,Highly significant,,
+URN,23,1.49,17,1.01,40,1.24,0.9,? 0.05,Not significant,,
+PMID (PubMed Identifier),22,1.42,15,0.89,37,1.15,1.324,? 0.05,Not significant,,
+GDPR (General Data Protection Regulation) ,11,0.71,18,1.07,29,0.90,1.69,? 0.05,Not significant,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+What methods or tools for collecting and analyzing academic event metadata do you prefer?,"Organizers 
+N = 543","
+Organizers,% 
+","
+Scholars 
+N = 727","
+Scholars, %",Total        N = 1270 ,"Total, %",Chi-Square (?ý),P-Value,Significance Level,,
+Manual entry,111,20.44,61,8.39,172,13.54,643.982,<0.0001,Highly significant,,
+Use of specialized software products,260,47.88,350,48.14,610,48.03,6696.182,<0.0001,Highly significant,,
+Automated data collection,50,9.21,129,17.74,179,14.09,561.595,<0.0001,Highly significant,,
+Combination of several methods,78,14.36,158,21.73,236,18.58,701.621,<0.0001,Highly significant,,
+Other,44,8.10,29,3.99,73,5.75,725.767,<0.0001,Highly significant,,
+,,,,,,,,,,,
