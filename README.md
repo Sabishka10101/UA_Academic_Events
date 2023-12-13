@@ -4,11 +4,12 @@ Getting Started
 To work with this project, you need to have R and RStudio installed. Data and scripts are accessible via GitHub.
 
 Installation
-1. Clone the repository: git clone https://github.com/Sabishka10101/UA_Academic_Events.git
-2. Open the R project file (*.Rproj) in RStudio.
-3. Install the required R packages (if not already installed): install.packages(c("ggplot2", "dplyr", "tidyr", "reshape2", "scales"))
-4. 
-The project scripts perform the following functions:
+1. Clone the repository:
+   git clone https://github.com/Sabishka10101/UA_Academic_Events.git
+3. Open the R project file (*.Rproj) in RStudio.
+4. Install the required R packages (if not already installed):
+   install.packages(c("ggplot2", "dplyr", "tidyr", "reshape2", "scales"))
+   
 The project scripts perform the following functions:
 
     1. 'script1.R' - Loads and displays data about the metadata of academic events.
