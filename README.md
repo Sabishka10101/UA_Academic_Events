@@ -25,4 +25,4 @@ Expected Results
     1. Statistical analysis of the importance of various metadata.
     2. Visualizations reflecting key aspects of the data.
 
-RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sabishka10101/UA_Academic_Events/main)
+Use to access data using launch RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sabishka10101/UA_Academic_Events/main)
