@@ -1,0 +1,8 @@
+# Ignore all files in the temp folder
+temp/*
+
+# Ignore files with the extension .log
+*.log
+
+# Do not ignore the README.md file, even if the ignore all .md files rule is above it
+!README.md
