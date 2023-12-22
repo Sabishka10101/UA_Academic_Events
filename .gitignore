@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore all files in the temp folder
 temp/*
 
@@ -6,3 +7,9 @@ temp/*
 
 # Do not ignore the README.md file, even if the ignore all .md files rule is above it
 !README.md
+=======
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+>>>>>>> master
