@@ -9,6 +9,7 @@ Clone the repository: git clone https://github.com/Sabishka10101/UA_Academic_Eve
 'script1.R' - Loads and displays data about the metadata of academic events.
 'script2.R' - Analyzes the data using the chi-squared test and p-value.
 'script3.R' - Visualizes the results using graphs. Run each script sequentially to obtain the results.
+
 Data data <- read.csv("https://raw.githubusercontent.com/Sabishka10101/UA_Academic_Events/main/your_data_file.csv")
 
 Expected Results 1. Statistical analysis of the importance of various metadata. 2. Visualizations reflecting key aspects of the data. 3. Analyzes the data using the chi-squared test and p-value.
