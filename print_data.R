@@ -178,7 +178,7 @@ methods_data <- data.frame(
 data=read.csv("https://raw.githubusercontent.com/Sabishka10101/UA_Academic_Events/main/How%20important%20is%20academic%20event%20metadata%20for%20effective%20organization.csv") 
 print(data)
 importance_data <- data.frame(
-  Likert Scale = c(
+  LikertScale = c(
     "1 (Not Important)",
     "2 (Slightly important)",
     "3 (Moderately important)",
@@ -199,7 +199,7 @@ importance_data <- data.frame(
 data=read.csv("https://raw.githubusercontent.com/Sabishka10101/UA_Academic_Events/main/How%20complete%20and%20accurate%20is%20the%20metadata%20usually%20provided%20for%20academic%20events.csv") 
 print(data)
 metadata_accuracy <- data.frame(
-  Likert Scale = c(
+  LikertScale = c(
     "1 (Fully unsatisfactory)",
     "2 (Satisfactory)",
     "3 (Almost satisfactory)",
@@ -219,7 +219,7 @@ metadata_accuracy <- data.frame(
 data=read.csv("https://raw.githubusercontent.com/Sabishka10101/UA_Academic_Events/main/Is%20it%20difficult%20for%20you%20to%20collect%20and%20manage%20academic%20event%20metadata.csv") 
 print(data)
 difficulty_data <- data.frame(
-  Likert Scale = c("1 (Very difficult)", "2 (Easy)", "3 (Moderate)", "4 (Difficult)", "5 (Very easy)"),
+  LikertScale = c("1 (Very difficult)", "2 (Easy)", "3 (Moderate)", "4 (Difficult)", "5 (Very easy)"),
   `Organizers N` = c(60, 121, 31, 95, 236),
   `Percentage %` = c(11.05, 22.28, 5.71, 17.50, 43.46),
   `Scholars N` = c(77, 45, 170, 116, 319),
