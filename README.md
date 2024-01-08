@@ -15,3 +15,5 @@ Data data <- read.csv("https://raw.githubusercontent.com/Sabishka10101/UA_Academ
 Expected Results 1. Statistical analysis of the importance of various metadata. 2. Visualizations reflecting key aspects of the data. 3. Analyzes the data using the chi-squared test and p-value.
 
 Use to access data using launch RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sabishka10101/UA_Academic_Events/main)
+
+DOI: 10.5281/zenodo.10468460
